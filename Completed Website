@@ -1,0 +1,105 @@
+<!DOCTYPE HTML>
+<!--
+	Phase Shift by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Second Take Podcast</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-wide.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div class="wrapper style1">
+
+				<!-- Header -->
+					<div id="header" class="skel-panels-fixed">
+						<div id="logo">
+							<h1><a href="index.html">Second Take Podcast</a></h1>
+							<span class="tag">by Max Falk</span>
+						</div>
+						
+					</div>
+
+				<!-- Banner -->
+					<div id="banner" class="container">
+						<section>
+							<p>Welcome to the Website of the Second Take Podcast!  We were created in the Summer of 2020 to talk and argue about sports and pop culture.  The inspiration behind the creation of the Podcast was that every day during quarantine when there were no sports, we were all starved of turning on the TV and watching the best athletes in the world go head to head.  We often had lengthy debates on any sports topic you could think of over text.  We all enjoyed those arguments and talks so much that we decided to make a platform and make those debates public.</p>
+							<a href="https://www.youtube.com/channel/UCsyap7q60jNCe9F15QTSDRg" class="button medium">Youtube Channel</a>
+						</section>
+					</div>
+
+				<!-- Extra -->
+					<div id="extra">
+						<div class="container">
+							<div class="row no-collapse-1">
+								<section class="4u"> <a href="#" class="image featured"><img src="images/mlb%201.jpeg" alt=""></a>
+									<div class="box">
+										<p>This is episode 1.  We have gotten much better at not talking over each other since then.</p>
+										<a href="https://www.youtube.com/watch?v=MqDVFNBs1DU&t=110s" class="button">Episode 1</a> </div>
+								</section>
+								<section class="4u"> <a href="#" class="image featured"><img src="images/Bballbreakdown.jpg" alt=""></a>
+									<div class="box">
+										<p>Bballbreakdown was our first ever guest.  He has a YouTube Channel where he talks about basketball and has a massive knowledge for the game.</p>
+										<a href="https://www.youtube.com/watch?v=gBjBUkZ-p9M&t=20s
+" class="button">Episode 5</a> </div>
+								</section>
+								<section class="4u"> <a href="#" class="image featured"><img src="images/Nba%201.jpg" alt=""></a>
+									<div class="box">
+										<p>The NBA bubble was a crazy highlight to our summer!.</p>
+										<a href="https://www.youtube.com/watch?v=jfqHR2whzs8&t=37s" class="button">Episode 4</a> </div>
+								</section>
+							</div>
+							<div class="row no-collapse-1">
+								<section class="4u"> <a href="#" class="image featured"><img src="images/Cal.jpg" alt=""></a>
+									<div class="box">
+										<p>We talked to our basketball coach and Ex D-1 basketball player at Cal!</p>
+										<a href="https://www.youtube.com/watch?v=_VslW6AF7MY&t=192s" class="button">Episode 7</a> </div>
+								</section>
+								<section class="4u"> <a href="#" class="image featured"><img src="images/Hot%20ones.jpg" alt=""></a>
+									<div class="box">
+										<p>In this Episode some of the members friends made a guest appearnce to have some extremely hot wings.</p>
+										<a href="https://www.youtube.com/watch?v=lVsw17NpauU&t=563s" class="button">Episode 14</a> </div>
+								</section>
+								<section class="4u"> <a href="#" class="image featured"><img src="images/Nfl%201.jpg" alt=""></a>
+									<div class="box">
+										<p>Browns should have beat the Chiefs, refs screwed us.</p>
+										<a href="https://www.youtube.com/watch?v=xzfFsnbpjlY&t=1350s" class="button">Most Recent Episode</a> </div>
+								</section>
+							</div>
+						</div>
+					</div>
+
+		
+	<!-- Footer -->
+		<div id="footer" class="wrapper style2">
+			
+				<section>
+					<nav id="nav">
+							<ul>
+								<li class="active"><a href="https://www.instagram.com/secondtake.podcast/">Instagram</a></li>
+								<li><a href="https://twitter.com/secondtake_pod?s=11">Twitter</a></li>
+								
+								
+							</ul>
+						</nav>
+				</section>
+		</div>
+
+	
